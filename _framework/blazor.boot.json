@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MastersProjectTrackingWebApp",
   "resources": {
-    "hash": "sha256-NKq6Q5x0agX02xLiHDIUtocvGI/ZPp9tWFTLEPwzu28=",
+    "hash": "sha256-+8OEsHwOJ6R4OkZLdotub2KWfPhchoKcgLe0jtjnHHM=",
     "jsModuleNative": {
       "dotnet.native.8.0.10.82xv5xxk85.js": "sha256-QVxMlY7ohmjgde/bZMA0dlWDAeuUP+tEfkiSdg4DFcE="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "MastersProjectTrackingWebApp.wasm": "sha256-FMyZ8BeWPrHx3pPK0knl1qFmzq8no1LFKVrb4VfcQOc=",
+      "MastersProjectTrackingWebApp.wasm": "sha256-yVKLFWFch5fU7KWkqcRsrzu3d4Yq/uoiQLBRMN2FnKQ=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-klrBNbsLiNykqIl809GC7/Y2dKIb12ad30wpJHnuoRU=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-VnMUskpCPmW1fX4qZihu4ZyOPWe/cSBWh229O8+OZxU=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-9pa4TX6FPCR8IZ3hObhj8D/J0Rp+4PZ1bfCK0WQAIZ8=",
